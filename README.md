@@ -3,11 +3,12 @@
 ## 👨‍💻 Identitas
 **Nama:** Akbar Januar  
 **NIM:** 232101214
+**Kelas:** TIF RP 23I
 
 ---
 
 ## 📝 Deskripsi Aplikasi
-Bank Sampah Kita adalah suatu aplikasi yang cocok untuk masyarakat sekitar 
+**Bank Sampah Kita** adalah suatu aplikasi yang cocok untuk masyarakat sekitar 
 yang ingin menghasilkan uang hanya dengan menyetorkan sampah.
 
 ---
